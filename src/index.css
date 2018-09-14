@@ -3,4 +3,5 @@ body {
   padding: 0;
   font-family: sans-serif;
   background: linear-gradient(to bottom, #1e6c74, #1e4b74);
+  /* overflow-y: hidden; */
 }

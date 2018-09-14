@@ -6,8 +6,8 @@ src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
 }
 
 .header {
-  margin-bottom: 2rem;
-  padding-bottom: 1rem;
+  margin-bottom: 0.5rem;
+  /* padding-bottom: 1rem; */
   /* border-bottom: 3px solid #1e4b74; */
 }
 
@@ -17,8 +17,8 @@ h1 {
    color: rgb(0, 82, 167);
 }
 
-.robobody {
+/* .robobody {
   border: 1px solid #1e4b74;
   margin: 1rem;
   padding: 2rem;
-}
+} */
