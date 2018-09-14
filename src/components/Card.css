@@ -1,0 +1,4 @@
+.cardBody {
+  background: linear-gradient(to bottom, #1e6c74, #1e4b74);
+  border: 0.1rem solid #1e4b74;
+}
